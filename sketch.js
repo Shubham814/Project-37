@@ -105,7 +105,7 @@ function draw() {
   }else{
     feedButton.show();
     addButton.show();
-    dog.addImage(dogImg);
+    
   }
 
   console.log(gameState);
